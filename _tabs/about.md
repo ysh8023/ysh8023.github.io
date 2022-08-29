@@ -3,12 +3,12 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
+- ### Hi there 👋, I'm 杨圣僧!
 
   - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
+  - 💻  I am currently learning Java technology.
   - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
+  - 🏖️  I hope to work for Tencent or Bilibili in the future.
 
-公众号: 汤姆还在写代码
+加油，少年！如果有钱也是一种错，祝你一错再错!🕧🌰🚀✔
 
