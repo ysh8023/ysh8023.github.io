@@ -14,14 +14,14 @@ mermaid: true
 
 
 
-typora-copy-images-to: ..\assets\blog_res
+typora-copy-images-to: ..\assets\blog_res\${filename}-img
 ---
 
-**Java正式系统学习，今天开始啦！！！**
+**Java正式系统的学习，今天开始啦！！！**
 
 
 
-# ==NO.01 Java基础笔记&心得体会==
+# NO.01 Java基础笔记&心得体会
 
 ### 一、注释
 

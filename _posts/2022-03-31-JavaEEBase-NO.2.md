@@ -14,12 +14,18 @@ mermaid: true
 
 
 
-typora-copy-images-to: ..\assets\blog_res
+typora-copy-images-to: ..\assets\blog_res\${filename}-img
 ---
 
 ![33068126881a11ebb6edd017c2d2eca2](/assets/blog_res/33068126881a11ebb6edd017c2d2eca2.jpg)
 
-# ==NO.02 Java基础学习&心得体会==
+
+
+
+
+# NO.02 Java基础学习&心得体会
+
+
 
 ### 一、运算符
 
